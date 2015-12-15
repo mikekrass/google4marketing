@@ -1,0 +1,8 @@
+<script>
+//<![CDATA[
+var dataLayer = []; var pr= '[ototal]'; var price = pr.replace(/[^0-9.]/g,''); dataLayer.push({'event':'order_success','conversion_value':price});
+//]]>
+</script>
+
+
+
